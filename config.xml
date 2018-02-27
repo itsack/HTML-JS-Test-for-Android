@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>TestLoad01</name>
+
+  <description>
+      An example for phonegap build from HTML JS to Android.
+  </description>
+
+  <author href="https://shrichenterprises.com" email="ritsard_marzan@yahoo.com">
+      Richard O. Marzan
+  </author>
+
+</widget>
